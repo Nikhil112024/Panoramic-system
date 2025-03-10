@@ -27,7 +27,7 @@ Tools: **OpenCV’s `cv2.calibrateCamera()` and `cv2.findHomography()`**
 Tools: **OpenCV’s `cv2.SIFT_create()` and `cv2.BFMatcher()`**
 
 ---
-
+Work in Progress..
 ### 3. **Homography Estimation**
 - A **homography matrix** is computed to transform points from one camera’s view to another.
 - This is done using **RANSAC (Random Sample Consensus)** to filter out incorrect matches and improve alignment.
